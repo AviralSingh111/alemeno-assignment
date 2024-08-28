@@ -1,3 +1,5 @@
+Deployed URL:- https://alemeno-assignment-1111.netlify.app/
+
 WORKFLOW:-
 
 1. The Courses get a tag of open,closed or in progres based on the JSON field. You can search any course by its name and instructor's name.
