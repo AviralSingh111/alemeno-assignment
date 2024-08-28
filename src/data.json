@@ -1,0 +1,435 @@
+[
+    {
+      "id": 1,
+      "name": "Full-Stack Web Development",
+      "instructor": "John Doe",
+      "description": "Learn to build web applications with HTML, CSS, JavaScript, and backend technologies.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "fullstack.thumbnail.here",
+      "duration": "12 weeks",
+      "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic programming knowledge"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Web Development",
+          "content": "Overview of HTML, CSS, and JavaScript."
+        },
+        {
+          "week": 2,
+          "topic": "Frontend Development",
+          "content": "Building responsive user interfaces with HTML, CSS, and JavaScript."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Introduction to Data Science",
+      "instructor": "Jane Smith",
+      "description": "An introductory course to data science using Python.",
+      "enrollmentStatus": "In Progress",
+      "thumbnail": "datascience.thumbnail.here",
+      "duration": "10 weeks",
+      "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic Python knowledge"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Data Science",
+          "content": "Overview of data science and its applications."
+        },
+        {
+          "week": 2,
+          "topic": "Python for Data Science",
+          "content": "Using Python libraries for data analysis and visualization."
+        }
+      ],
+      "students": [
+        {
+          "id": 103,
+          "name": "Charlie Davis",
+          "email": "charlie@example.com"
+        },
+        {
+          "id": 104,
+          "name": "Diana Miller",
+          "email": "diana@example.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Machine Learning with Python",
+      "instructor": "Robert Brown",
+      "description": "Master machine learning algorithms and techniques using Python.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "ml.thumbnail.here",
+      "duration": "8 weeks",
+      "schedule": "Fridays, 6:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Python", "Statistics"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Machine Learning",
+          "content": "Overview of machine learning concepts and algorithms."
+        },
+        {
+          "week": 2,
+          "topic": "Supervised Learning",
+          "content": "Implementing supervised learning algorithms with Python."
+        }
+      ],
+      "students": [
+        {
+          "id": 105,
+          "name": "Eve Adams",
+          "email": "eve@example.com"
+        },
+        {
+          "id": 106,
+          "name": "Frank White",
+          "email": "frank@example.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Introduction to React Native",
+      "instructor": "Michael Wilson",
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "reactnative.thumbnail.here",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 107,
+          "name": "George Harris",
+          "email": "george@example.com"
+        },
+        {
+          "id": 108,
+          "name": "Hannah Lee",
+          "email": "hannah@example.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Advanced JavaScript",
+      "instructor": "Sara Taylor",
+      "description": "Deep dive into JavaScript, exploring advanced concepts and techniques.",
+      "enrollmentStatus": "In Progress",
+      "thumbnail": "advancedjs.thumbnail.here",
+      "duration": "6 weeks",
+      "schedule": "Wednesdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Intermediate JavaScript knowledge"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "JavaScript ES6+ Features",
+          "content": "Exploring new features in JavaScript ES6 and beyond."
+        },
+        {
+          "week": 2,
+          "topic": "Asynchronous JavaScript",
+          "content": "Understanding and using Promises, async/await, and more."
+        }
+      ],
+      "students": [
+        {
+          "id": 109,
+          "name": "Ivy Scott",
+          "email": "ivy@example.com"
+        },
+        {
+          "id": 110,
+          "name": "Jack Thompson",
+          "email": "jack@example.com"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Introduction to DevOps",
+      "instructor": "Chris Martin",
+      "description": "Learn the principles of DevOps and how to implement them in your projects.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "devops.thumbnail.here",
+      "duration": "10 weeks",
+      "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic IT knowledge"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to DevOps",
+          "content": "Understanding the principles and practices of DevOps."
+        },
+        {
+          "week": 2,
+          "topic": "CI/CD Pipelines",
+          "content": "Setting up continuous integration and continuous delivery pipelines."
+        }
+      ],
+      "students": [
+        {
+          "id": 111,
+          "name": "Kate Brown",
+          "email": "kate@example.com"
+        },
+        {
+          "id": 112,
+          "name": "Liam Johnson",
+          "email": "liam@example.com"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Introduction to UI/UX Design",
+      "instructor": "Olivia Adams",
+      "description": "Learn the fundamentals of user interface and user experience design.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "uiux.thumbnail.here",
+      "duration": "8 weeks",
+      "schedule": "Thursdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic design knowledge"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to UI/UX",
+          "content": "Understanding the basics of UI and UX design."
+        },
+        {
+          "week": 2,
+          "topic": "Designing Wireframes",
+          "content": "Creating wireframes for user interfaces."
+        }
+      ],
+      "students": [
+        {
+          "id": 113,
+          "name": "Megan Garcia",
+          "email": "megan@example.com"
+        },
+        {
+          "id": 114,
+          "name": "Nathan Roberts",
+          "email": "nathan@example.com"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Cybersecurity Basics",
+      "instructor": "Sophia Moore",
+      "description": "Learn the basics of cybersecurity and how to protect systems and data.",
+      "enrollmentStatus": "In Progress",
+      "thumbnail": "cybersecurity.thumbnail.here",
+      "duration": "6 weeks",
+      "schedule": "Tuesdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic networking knowledge"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Cybersecurity",
+          "content": "Overview of cybersecurity principles and practices."
+        },
+        {
+          "week": 2,
+          "topic": "Network Security",
+          "content": "Securing networks and preventing unauthorized access."
+        }
+      ],
+      "students": [
+        {
+          "id": 115,
+          "name": "Olivia Martinez",
+          "email": "olivia@example.com"
+        },
+        {
+          "id": 116,
+          "name": "Paul Walker",
+          "email": "paul@example.com"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Cloud Computing Essentials",
+      "instructor": "Daniel Lee",
+      "description": "Learn the fundamentals of cloud computing and its services.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "cloudcomputing.thumbnail.here",
+      "duration": "8 weeks",
+      "schedule": "Mondays and Thursdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic IT knowledge"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Cloud Computing",
+          "content": "Understanding cloud computing and its benefits."
+        },
+        {
+          "week": 2,
+          "topic": "Cloud Service Models",
+          "content": "Exploring different cloud service models (IaaS, PaaS, SaaS)."
+        }
+      ],
+      "students": [
+        {
+          "id": 117,
+          "name": "Rachel King",
+          "email": "rachel@example.com"
+        },
+        {
+          "id": 118,
+          "name": "Samuel Lewis",
+          "email": "samuel@example.com"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Blockchain Fundamentals",
+      "instructor": "Emily Turner",
+      "description": "Understand the basics of blockchain technology and its applications.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "blockchain.thumbnail.here",
+      "duration": "6 weeks",
+      "schedule": "Wednesdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic understanding of cryptography"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Blockchain",
+          "content": "Overview of blockchain technology and its uses."
+        },
+        {
+          "week": 2,
+          "topic": "Cryptocurrency Basics",
+          "content": "Understanding how cryptocurrencies work on blockchain networks."
+        }
+      ],
+      "students": [
+        {
+          "id": 119,
+          "name": "Sophie Wright",
+          "email": "sophie@example.com"
+        },
+        {
+          "id": 120,
+          "name": "Thomas Hall",
+          "email": "thomas@example.com"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Artificial Intelligence",
+      "instructor": "William Baker",
+      "description": "Learn the fundamentals of AI, including machine learning, neural networks, and deep learning.",
+      "enrollmentStatus": "In Progress",
+      "thumbnail": "ai.thumbnail.here",
+      "duration": "10 weeks",
+      "schedule": "Fridays, 6:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Python", "Linear Algebra"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to AI",
+          "content": "Overview of artificial intelligence and its applications."
+        },
+        {
+          "week": 2,
+          "topic": "Machine Learning Basics",
+          "content": "Understanding machine learning algorithms and their uses."
+        }
+      ],
+      "students": [
+        {
+          "id": 121,
+          "name": "Ursula Adams",
+          "email": "ursula@example.com"
+        },
+        {
+          "id": 122,
+          "name": "Victor Clark",
+          "email": "victor@example.com"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Digital Marketing",
+      "instructor": "Grace Hernandez",
+      "description": "Learn how to effectively market products and services online using various digital marketing strategies.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "digitalmarketing.thumbnail.here",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic understanding of marketing principles"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Digital Marketing",
+          "content": "Overview of digital marketing and its importance."
+        },
+        {
+          "week": 2,
+          "topic": "SEO and SEM",
+          "content": "Understanding search engine optimization and marketing strategies."
+        }
+      ],
+      "students": [
+        {
+          "id": 123,
+          "name": "Wendy Green",
+          "email": "wendy@example.com"
+        },
+        {
+          "id": 124,
+          "name": "Xander Young",
+          "email": "xander@example.com"
+        }
+      ]
+    }
+  ]
+  
